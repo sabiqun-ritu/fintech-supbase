@@ -112,14 +112,14 @@
   .save-button > button {
     border: none;
     outline: none;
-    background-color: yellow;
+    background-color: rgb(52, 107, 162);
     color: rgb(6, 0, 0);
     padding: 10px;
     border-radius: 20px;
   }
   
   .save-button > button:hover {
-    background-color: green;
+    background-color: rgb(163, 170, 175);
     color: white;
   }
   
